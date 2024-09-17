@@ -1,0 +1,197 @@
+{
+    "flicks": [
+        {
+            "arr": [
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941796-9888976272629364-3.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941791-18485822662632634-3.png"
+                },
+                {
+                    "_id": "66a3464f21577293158a357d",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954152-4856058209217933-4.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954147-36994940639092544-4.png"
+                },
+                {
+                    "_id": "6694adb70007fd4aeff4517a",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354033-016101112747388457-6.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354023-19510093965545794-6.png"
+                },
+                {
+                    "_id": "66a3402121577293158a356c",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392524-12493400291317225-CE3E557E-4239-40AF-A121-525923624C43.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392521-809579738539798-thumbnail.jpg"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "66a3467121577293158a3582",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907383-09301165121270505-2FBC76C4-026F-4262-8171-6202028C65DB.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907514-23408828677817772-thumbnail.jpg"
+                },
+                {
+                    "_id": "66a33fa821577293158a3567",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909896-4083481544897998-1.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909885-5665143708124423-1.png"
+                },
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928606-36885612701664927-2.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928596-26512643430347826-2.png"
+                },
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941796-9888976272629364-3.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941791-18485822662632634-3.png"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "66a3464f21577293158a357d",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954152-4856058209217933-4.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954147-36994940639092544-4.png"
+                },
+                {
+                    "_id": "6694adb70007fd4aeff4517a",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354033-016101112747388457-6.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354023-19510093965545794-6.png"
+                },
+                {
+                    "_id": "66a3402121577293158a356c",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392524-12493400291317225-CE3E557E-4239-40AF-A121-525923624C43.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392521-809579738539798-thumbnail.jpg"
+                },
+                {
+                    "_id": "66a3467121577293158a3582",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907383-09301165121270505-2FBC76C4-026F-4262-8171-6202028C65DB.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907514-23408828677817772-thumbnail.jpg"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "66a33fa821577293158a3567",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909896-4083481544897998-1.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909885-5665143708124423-1.png"
+                },
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928606-36885612701664927-2.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928596-26512643430347826-2.png"
+                },
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941796-9888976272629364-3.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941791-18485822662632634-3.png"
+                },
+                {
+                    "_id": "66a3464f21577293158a357d",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954152-4856058209217933-4.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954147-36994940639092544-4.png"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "6694adb70007fd4aeff4517a",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354033-016101112747388457-6.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354023-19510093965545794-6.png"
+                },
+                {
+                    "_id": "66a3402121577293158a356c",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392524-12493400291317225-CE3E557E-4239-40AF-A121-525923624C43.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392521-809579738539798-thumbnail.jpg"
+                },
+                {
+                    "_id": "66a3467121577293158a3582",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907383-09301165121270505-2FBC76C4-026F-4262-8171-6202028C65DB.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907514-23408828677817772-thumbnail.jpg"
+                },
+                {
+                    "_id": "66a33fa821577293158a3567",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909896-4083481544897998-1.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909885-5665143708124423-1.png"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928606-36885612701664927-2.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928596-26512643430347826-2.png"
+                },
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941796-9888976272629364-3.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941791-18485822662632634-3.png"
+                },
+                {
+                    "_id": "66a3464f21577293158a357d",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954152-4856058209217933-4.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954147-36994940639092544-4.png"
+                },
+                {
+                    "_id": "6694adb70007fd4aeff4517a",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354033-016101112747388457-6.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354023-19510093965545794-6.png"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "66a3402121577293158a356c",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392524-12493400291317225-CE3E557E-4239-40AF-A121-525923624C43.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392521-809579738539798-thumbnail.jpg"
+                },
+                {
+                    "_id": "66a3467121577293158a3582",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907383-09301165121270505-2FBC76C4-026F-4262-8171-6202028C65DB.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c53f9b9cb7561e6893f242/1724202907514-23408828677817772-thumbnail.jpg"
+                },
+                {
+                    "_id": "66a33fa821577293158a3567",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909896-4083481544897998-1.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54d9509e39814170b57cb/1723157909885-5665143708124423-1.png"
+                },
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928606-36885612701664927-2.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54da809e39814170b57d0/1723157928596-26512643430347826-2.png"
+                }
+            ]
+        },
+        {
+            "arr": [
+                {
+                    "_id": "66a33f2e21577293158a355f",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941796-9888976272629364-3.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54db509e39814170b57d5/1723157941791-18485822662632634-3.png"
+                },
+                {
+                    "_id": "66a3464f21577293158a357d",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954152-4856058209217933-4.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54dc209e39814170b57da/1723157954147-36994940639092544-4.png"
+                },
+                {
+                    "_id": "6694adb70007fd4aeff4517a",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354033-016101112747388457-6.mov",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66b54f5209e39814170b585c/1723158354023-19510093965545794-6.png"
+                },
+                {
+                    "_id": "66a3402121577293158a356c",
+                    "video": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392524-12493400291317225-CE3E557E-4239-40AF-A121-525923624C43.mp4",
+                    "thumbnail": "https://finap-dev.s3.ap-southeast-2.amazonaws.com/reels/66c49d70f43ba432635d9d7e/1724161392521-809579738539798-thumbnail.jpg"
+                }
+            ]
+        }
+    ]
+}
+
